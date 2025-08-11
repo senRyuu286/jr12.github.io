@@ -1,2 +1,2 @@
-# jr12.github.io
+# jramas12.com
 Website Portfolio of Justin Ramas
