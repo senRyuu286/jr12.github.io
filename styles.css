@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    font-family: 'Poppins';
+    color: #e7e3dd;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 10%;
+}
+
+
+.nav-links {
+    flex: 1 1 33%;
+}
+
+.nav-links a:link, a:visited, a:active {
+    margin-right: 50px;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 36px;
+    color: #e7e3dd;
+}
+
+.header-middle {
+    flex: 1 1 33%;
+}
+
+.header-middle img {
+    max-width: 65px;
+    display: block;
+    margin: auto;
+}
+
+.nav-socmed {
+    flex: 1 1 33%;
+    text-align: end;
+}
+
+.nav-socmed a:link, a:visited, a:active {
+    font-size: 36px;
+    margin-right: 25px;
+    color: #e7e3dd;
+}
+
+.heropage p {
+    text-align: center;
+}
