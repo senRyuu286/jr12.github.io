@@ -177,7 +177,7 @@ header {
 }
 
 .work1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('res/work1_bg.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('res/work1_bg.gif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
